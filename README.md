@@ -87,6 +87,14 @@ pip install -r requirements.txt
 Open Jupyter Notebook:
 jupyter notebook
 
+## 🧪 Conda Setup (Recommended)
+
+If using Anaconda:
+
+```bash
+conda env create -f environment.yml
+conda activate aiops-platform
+
 📌 Skills Demonstrated
 Data Analysis
 Python Programming
